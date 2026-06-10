@@ -15,3 +15,4 @@ const loadComments2 = async () => {
     console.error(error);
   }
 };
+loadComments2();
